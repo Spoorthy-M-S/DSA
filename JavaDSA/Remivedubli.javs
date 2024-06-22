@@ -1,0 +1,19 @@
+import java.util.*;
+public class Remivedubli{
+public static void main (String args[]){
+in arr1={1,2,3,4,4,5};
+HashSet<Integer>h=new HashSet<>();
+for(int i=0;i<arr1.length;i++){
+h.add(arr[i]);
+}
+int j=0;
+for(int i:h){
+arr1[j]=h;
+j++;
+}
+for(int i=0;i<h.size();i++){
+System.out.print(arr1[i]+" ");
+}
+
+}
+}
