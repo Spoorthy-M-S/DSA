@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Q1SubSets {
+public class Q1SubSets1 {
     public static void powerSet(int arr[], List<List<Integer>> ans) {
         int n = arr.length;
         int subsets = (int) Math.pow(2, n);
