@@ -1,4 +1,4 @@
-package DSA.Arrays.S1Easy;
+package Arrays.S1Easy;
 import java.util.*;
 public class Q1LargestElement {
     public static void main(String[] args) {
