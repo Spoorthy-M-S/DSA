@@ -1,7 +1,7 @@
 package Arrays.S1Easy;
 
 public class Q3CheckIfArraySorted {
-
+//optimal
     public static boolean isSorted(int arr[]){
         for(int i=1;i<arr.length;i++){
             if(arr[i-1]>arr[i]){
