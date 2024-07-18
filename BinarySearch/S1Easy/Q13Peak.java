@@ -1,5 +1,4 @@
 package BinarySearch.S1Easy;
-
 public class Q13Peak {
 
     public static int peak(int arr[]) {
@@ -30,5 +29,4 @@ public class Q13Peak {
         int arr[] = { 1, 2, 3, 4, 5, 6, 7, 8, 5, 1 };
         System.out.println(peak(arr));
     }
-
 }
