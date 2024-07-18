@@ -1,5 +1,5 @@
 package BinarySearch.S1Easy;
-
+import java.util.*;
 public class Q7CountOccuranceOfANumber {
     public static int count(int arr[], int n, int x) {
         // Your code goes here
